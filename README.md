@@ -1,5 +1,5 @@
 # 42Projects
-All I've done during my 42 piscines /n
+All I've done during my 42 piscines
 
 Shell00   100/100
 C00       85 /100
