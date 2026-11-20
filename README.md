@@ -1,11 +1,9 @@
-# 42Projects
-All I've done during my 42 piscines
+# 42 piscine
 
-Shell00   100/100
-C00       85 /100
-C01       100/100
-C02       65 /100
-C03       75 /100
-C04       85 /100
-C05       
-C06       100/100
+The exercises from my piscine at 42 Roma Luiss, the four-week selection before the school starts: shell first, then C.
+
+| Folder | Topic |
+|---|---|
+| Shell00, Shell01 | the shell: files, permissions, links, git, small scripts |
+| C00 to C04 | first steps in C: printing, pointers, strings, number conversions |
+| C06 | command-line arguments |
