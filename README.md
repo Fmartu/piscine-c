@@ -1,9 +1,8 @@
-# 42 piscine
+# piscine-c
 
-The exercises from my piscine at 42 Roma Luiss, the four-week selection before the school starts: shell first, then C.
+The C exercises from my piscine at 42 Roma Luiss, the four-week selection before the school starts. The shell part is in [piscine-shell](https://github.com/Fmartu/piscine-shell).
 
 | Folder | Topic |
 |---|---|
-| Shell00, Shell01 | the shell: files, permissions, links, git, small scripts |
 | C00 to C04 | first steps in C: printing, pointers, strings, number conversions |
 | C06 | command-line arguments |
